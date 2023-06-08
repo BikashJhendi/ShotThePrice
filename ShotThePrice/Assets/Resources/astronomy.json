@@ -1,0 +1,177 @@
+{
+    "Shoot the Price":{
+        "Astrononmy":{
+            "The earth spins on its own":{
+                "Correct" : "Axis",
+                "Incorrect1" : "Path",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Stars appears to move in the sky from?":{
+                "Correct" : "East to West",
+                "Incorrect1" : "North to South",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "When sun is entirely or partially blocked out by moon, it is termed as?":{
+                "Correct" : "Solar eclipse",
+                "Incorrect1" : "Lunar eclipse",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "What are the heavenly bodies which revolve around the sun?":{
+                "Correct" : "Planets",
+                "Incorrect1" : "Asteriods",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "The hemisphere of earth faced towards sun, experiences?":{
+                "Correct" : "Daytime",
+                "Incorrect1" : "Nighttime",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "The natural satellites of a planet is termed as?":{
+                "Correct" : "Moon",
+                "Incorrect1" : "Spacecraft",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "A group of stars that appear to form a pattern in the sky is known as..":{
+                "Correct" : "Constellation",
+                "Incorrect1" : "Milky way",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which planet appears reddish in colour?":{
+                "Correct" : "Mars",
+                "Incorrect1" : "Venus",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "How many planets are there in the solar system?":{
+                "Correct" : "Eight",
+                "Incorrect1" : "Ten",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which is the nearest planet to the Sun?":{
+                "Correct" : "Mercury",
+                "Incorrect1" : "Venus",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which is the farthest planet to the Sun?":{
+                "Correct" : "Neptune",
+                "Incorrect1" : "Saturn",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which is the largest planet in the solar system?":{
+                "Correct" : "Jupiter",
+                "Incorrect1" : "Earth",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which is the third planet from the sun in our solar system?":{
+                "Correct" : "Earth",
+                "Incorrect1" : "Mars",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "The celestial bodies that emit light of their own are called?":{
+                "Correct" : "Stars",
+                "Incorrect1" : "Planets",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "The sun is a ..":{
+                "Correct" : "Star",
+                "Incorrect1" : "Planet",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "The largest heavenly body in our solar system is..":{
+                "Correct" : "Sun",
+                "Incorrect1" : "Jupiter",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which unit is used to measure the distance between celestial bodies?":{
+                "Correct" : "Light year",
+                "Incorrect1" : "Kilo Metre",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which planet has a well-developed system of rings around it?":{
+                "Correct" : "Saturn",
+                "Incorrect1" : "Uranus",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "How long does it take sunlight to reach the Earth?":{
+                "Correct" : "8 minute 20 seconds",
+                "Incorrect1" : "14 minute 20 seconds",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            }
+        }
+    }
+}
+    

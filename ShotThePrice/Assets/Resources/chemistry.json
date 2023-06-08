@@ -1,0 +1,185 @@
+{
+    "Shoot the Price":{
+        "Chemistry":{
+            "How crystals of pure substances are obtained?":{
+                "Correct" : "By crystallization",
+                "Incorrect1" : "By Peptization",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which one of the following turns blue litmus paper into red?":{
+                "Correct" : "Acid",
+                "Incorrect1" : "Base",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which acid is naturally present in our stomach?":{
+                "Correct" : "Hydrochloric acid (HCl)",
+                "Incorrect1" : "Sulphuric Acid (H2SO4)",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which type of change is condensation?":{
+                "Correct" : "Physical change",
+                "Incorrect1" : "Chemical change",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which substance take longer to decompose?":{
+                "Correct" : "Inorganic substance",
+                "Incorrect1" : "Organic substance",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which is a organic substance ?":{
+                "Correct" : "Hair",
+                "Incorrect1" : "Plastic",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which substances can be mixed in water?":{
+                "Correct" : "Soluble substances",
+                "Incorrect1" : "Insoluble substances",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which is the hardest natural occuring substance?":{
+                "Correct" : "Diamond",
+                "Incorrect1" : "Radium",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "What happens if u drop a coin in water?":{
+                "Correct" : "It floats",
+                "Incorrect1" : "It sinks",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "The process of conversion of water into water vapor is called?":{
+                "Correct" : "Evaporation",
+                "Incorrect1" : "Condensation",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which acid is present in lemons?":{
+                "Correct" : "Citric Acid",
+                "Incorrect1" : "Lactic Acid",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "What type of change is rust?":{
+                "Correct" : "Chemical change",
+                "Incorrect1" : "Physical change",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which amoung these is needed for rust to happen?":{
+                "Correct" : "Oxygen",
+                "Incorrect1" : "Nitrogen",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Stretching of rubberband is a..":{
+                "Correct" : "Physical change",
+                "Incorrect1" : "Chemical change",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "What is the smallest unit of an element?":{
+                "Correct" : "Atom",
+                "Incorrect1" : "Molecules",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "What are the elements which possess characters of both metals and non-metals called?":{
+                "Correct" : "Metalloids",
+                "Incorrect1" : "Asteriods",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Which synthetic fiber is commonly used as making plastic bags?":{
+                "Correct" : "Polythene",
+                "Incorrect1" : "Nylon",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "Plastic bags made from polythene are..":{
+                "Correct" : "Non-biodegradable",
+                "Incorrect1" : "Biodegradable",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+
+            "The process of separating a liquid from solid sediment is called?":{
+                "Correct" : "Decantation",
+                "Incorrect1" : "Threshing",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            "The liquid in which the solid dissolves is called?":{
+                "Correct" : "Solvent",
+                "Incorrect1" : "Solution",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            }
+        }
+    }
+}
+    
