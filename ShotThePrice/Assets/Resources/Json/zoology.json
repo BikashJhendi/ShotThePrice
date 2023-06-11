@@ -1,0 +1,186 @@
+{
+    "Shoot the Price": {
+        "Zoology": [
+            {
+                "Question": "What is the study of animals called?",
+                "Correct": "Zoology",
+                "Incorrect1": "Botany",
+                "Incorrect2": "Geology",
+                "Incorrect3": "Anthropology",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which of the following is not a mammal?",
+                "Correct": "Snake",
+                "Incorrect1": "Dolphin",
+                "Incorrect2": "Kangaroo",
+                "Incorrect3": "Elephant",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which animal is known for its ability to fly?",
+                "Correct": "Bat",
+                "Incorrect1": "Turtle",
+                "Incorrect2": "Frog",
+                "Incorrect3": "Giraffe",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the largest species of shark?",
+                "Correct": "Whale Shark",
+                "Incorrect1": "Great White Shark",
+                "Incorrect2": "Tiger Shark",
+                "Incorrect3": "Hammerhead Shark",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the fastest land animal?",
+                "Correct": "Cheetah",
+                "Incorrect1": "Lion",
+                "Incorrect2": "Gazelle",
+                "Incorrect3": "Leopard",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which animal has the longest lifespan?",
+                "Correct": "Giant Tortoise",
+                "Incorrect1": "Elephant",
+                "Incorrect2": "Blue Whale",
+                "Incorrect3": "Human",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which animal is known for its black and white stripes?",
+                "Correct": "Zebra",
+                "Incorrect1": "Tiger",
+                "Incorrect2": "Leopard",
+                "Incorrect3": "Cheetah",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which bird is known for its ability to mimic human speech?",
+                "Correct": "Parrot",
+                "Incorrect1": "Eagle",
+                "Incorrect2": "Ostrich",
+                "Incorrect3": "Penguin",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the largest species of penguin?",
+                "Correct": "Emperor Penguin",
+                "Incorrect1": "Adelie Penguin",
+                "Incorrect2": "Gentoo Penguin",
+                "Incorrect3": "King Penguin",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the national bird of the United States?",
+                "Correct": "Bald Eagle",
+                "Incorrect1": "American Robin",
+                "Incorrect2": "Wild Turkey",
+                "Incorrect3": "California Quail",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which animal is known for its ability to change color?",
+                "Correct": "Chameleon",
+                "Incorrect1": "Lion",
+                "Incorrect2": "Giraffe",
+                "Incorrect3": "Elephant",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the largest species of land-dwelling arthropod?",
+                "Correct": "Coconut Crab",
+                "Incorrect1": "Scorpion",
+                "Incorrect2": "Tarantula",
+                "Incorrect3": "Millipede",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which animal is known for its long neck?",
+                "Correct": "Giraffe",
+                "Incorrect1": "Hippopotamus",
+                "Incorrect2": "Kangaroo",
+                "Incorrect3": "Zebra",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the largest species of land-dwelling mammal?",
+                "Correct": "African Elephant",
+                "Incorrect1": "Gorilla",
+                "Incorrect2": "Hippopotamus",
+                "Incorrect3": "Rhinoceros",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which animal is known for its ability to regrow its tail?",
+                "Correct": "Lizard",
+                "Incorrect1": "Snake",
+                "Incorrect2": "Frog",
+                "Incorrect3": "Turtle",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the fastest marine animal?",
+                "Correct": "Sailfish",
+                "Incorrect1": "Dolphin",
+                "Incorrect2": "Shark",
+                "Incorrect3": "Tuna",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which animal is known for its ability to hibernate?",
+                "Correct": "Bear",
+                "Incorrect1": "Fox",
+                "Incorrect2": "Squirrel",
+                "Incorrect3": "Rabbit",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the largest species of frog?",
+                "Correct": "Goliath Frog",
+                "Incorrect1": "Poison Dart Frog",
+                "Incorrect2": "Tree Frog",
+                "Incorrect3": "Bullfrog",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which animal is known for its ability to echolocate?",
+                "Correct": "Bat",
+                "Incorrect1": "Rat",
+                "Incorrect2": "Owl",
+                "Incorrect3": "Squirrel",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the national bird of Australia?",
+                "Correct": "Emu",
+                "Incorrect1": "Kookaburra",
+                "Incorrect2": "Cockatoo",
+                "Incorrect3": "Black Swan",
+                "Image": "",
+                "Suggestion": ""
+            }
+        ]
+    }
+}

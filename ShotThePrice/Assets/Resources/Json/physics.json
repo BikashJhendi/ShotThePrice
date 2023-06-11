@@ -1,0 +1,177 @@
+{
+    "Shoot the Price": {
+        "Physics": [
+            {
+                "Question": "WHat is the basic unit of time?",
+                "Correct": "Second",
+                "Incorrect1": "Minute",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which object does not allow light to pass through it?",
+                "Correct": "Opaque Object",
+                "Incorrect1": "Transparent Object",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which is a luminous object?",
+                "Correct": "Sun",
+                "Incorrect1": "Moon",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What does heating an object do?",
+                "Correct": "Expand it",
+                "Incorrect1": "Shrink it",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which colour absorbs most heat?",
+                "Correct": "Black",
+                "Incorrect1": "White",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which device is used to open or close an electric circuit?",
+                "Correct": "Electric Switch",
+                "Incorrect1": "Electric Wire",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "How many meters are there in a kilometer?",
+                "Correct": "1000",
+                "Incorrect1": "100",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which among these is a measure of length?",
+                "Correct": "Centimetre(cm)",
+                "Incorrect1": "Mililitre(ml)",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Motion along a straight path is termed as?",
+                "Correct": "Rectilinear motion",
+                "Incorrect1": "Circular motion",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which among these is an example of circular motion?",
+                "Correct": "Rotating blades of a helicopter",
+                "Incorrect1": "A rocking chair",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the colour of shadow?",
+                "Correct": "Black",
+                "Incorrect1": "Brown",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which object helps form a shadow?",
+                "Correct": "Opaque object",
+                "Incorrect1": "Transparent object",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Substances that reflect light are called?",
+                "Correct": "Reflector",
+                "Incorrect1": "Absorber",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What object does not allow current to pass through them?",
+                "Correct": "Insulator",
+                "Incorrect1": "Conductor",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "Which among these is a conductor?",
+                "Correct": "Copper",
+                "Incorrect1": "Wood",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the silver substance in a thermometer?",
+                "Correct": "Mercury",
+                "Incorrect1": "Copper",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "The normal temperature of a human being is",
+                "Correct": "37 degree celcius",
+                "Incorrect1": "45 degree celcius",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "A process of applying a push of pull on a object is called?",
+                "Correct": "Force",
+                "Incorrect1": "Friction",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            },
+            {
+                "Question": "What is the unit of Force?",
+                "Correct": "Newton",
+                "Incorrect1": "Pascal",
+                "Incorrect2": "",
+                "Incorrect3": "",
+                "Image": "",
+                "Suggestion": ""
+            }
+        ]
+    }
+}
